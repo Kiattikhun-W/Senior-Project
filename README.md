@@ -9,4 +9,6 @@
 1. User จะใช้งานผ่าน Line OA 
 2. Admin จะใช้งานผ่าน Web App โดยมีหน้าที่จัดการกับข้อมูลต่างๆสร้าง ลบ แก้ไข และส่งข้อมูลเข้าไลน์ User 
    ![e5bf7f126f2a64a55f7fed408aadd92f.png](https://www.img.in.th/images/e5bf7f126f2a64a55f7fed408aadd92f.png)
+   ![image](https://user-images.githubusercontent.com/108406986/186328050-e7ec069f-994f-4ca6-8a13-d1ec44eed792.png)
+
 [![7758cf14bb2e6e252c175e67457d9049.png](https://www.img.in.th/images/7758cf14bb2e6e252c175e67457d9049.png)](https://www.img.in.th/image/H36VJp)![2445526757a81fe3d13d5e3000891c5d.png](https://www.img.in.th/images/2445526757a81fe3d13d5e3000891c5d.png)
