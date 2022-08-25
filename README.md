@@ -16,7 +16,7 @@
 * จ่ายบิล(ไม่มี Payment Gateway ❌)
 * สอบถามข้อมูล (webboard)
 * แจ้งซ่อม
-
+* พัสดุ
 #### **Tech stack**
 
 * Line LIFF
